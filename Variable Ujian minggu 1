@@ -1,0 +1,11 @@
+public class TiketBioskop {
+    public static void main(String[] args) {
+        // Menyimpan informasi tiket bioskop
+        String namaFilm = "Avengers: Endgame";
+        int hargaTiket = 50000;
+        int jumlahTiket = 3;
+
+        // Mencetak informasi tiket ke layar
+        System.out.println("Nama Film: " + namaFilm);
+        System.out.println("Harga Tiket: " + hargaTiket);
+        System.out.println("Jumlah Tiket: " + jumlahTiket);
